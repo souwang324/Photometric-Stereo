@@ -5,6 +5,7 @@
 Input: a set of photographs of a static scene taken with known lighting directions  
 Output: albedo (paint), normal directions, and the height map  
 
+*Slides are credited to Subhransu Maji, associate professor in the College of Information and Computer Sciences at the University of Massachusetts, Amherst.*
 ![Example](demos/photo-example01.png)  
 ![Example](demos/photo-example02.png)  
 ![Example](demos/photo-example03.png)  
