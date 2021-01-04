@@ -2,7 +2,7 @@
 ## (Shape from Shading algorithm)  
   
   
-### Input: a set of photographs of a static scene taken with known lighting directions  
+### Input: a set of photographs of a static scene taken with known lighting directions
 ### Output: albedo (paint), normal directions, and the height map  
 
 *Slides are credited to Subhransu Maji, associate professor in the College of Information and Computer Sciences at the University of Massachusetts, Amherst.*
