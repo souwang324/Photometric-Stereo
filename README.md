@@ -8,7 +8,7 @@
 ![Example](demos/photo-example02.png)  
 ![Example](demos/photo-example03.png)  
 
-
+---
 ## Compute the surface height map by integration
 - ### Method 1: Integrating first the rows, then the columns  
 ![Example](demos/photo-height-row.png)  
